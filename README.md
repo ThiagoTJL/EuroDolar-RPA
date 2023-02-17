@@ -1,2 +1,2 @@
 # EuroDolar-RPA
-Projeto de de automação
+Projeto de de automação para fins de aprendizagem
